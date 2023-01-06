@@ -1,0 +1,1 @@
+RI Function [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/tk-reliability-index/blob/main/tk-ri-function-2023-01-05.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/tk-reliability-index/HEAD?labpath=tk-ri-function-2023-01-05.ipynb)
